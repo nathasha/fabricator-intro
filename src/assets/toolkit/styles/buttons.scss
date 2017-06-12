@@ -1,0 +1,9 @@
+button {
+	background : hotpink;
+	border: none;
+	padding: 10px;
+
+	&:hover {
+		background: lighten(hotpink, 10%);
+	}
+}

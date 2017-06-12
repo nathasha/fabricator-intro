@@ -1,0 +1,12 @@
+{
+	"primary" : {
+	  "Dark": "#ff69b4",
+	  "Light": "#daa9c1"
+	},
+	"secondary": {
+	  "Red" : "#cc281e",
+	  "Yellow" : "#fccf50",
+	  "Blue": "#1b8bd4"
+	}
+}
+
