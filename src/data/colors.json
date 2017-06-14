@@ -1,12 +1,13 @@
 {
 	"primary" : {
-	  "Dark": "#ff69b4",
-	  "Light": "#daa9c1"
+	  "Base": "#48e0a4",
+		"Dark Graphite" : "#1C1C1E",
+		"Graphite": "#282B2D"
 	},
-	"secondary": {
-	  "Red" : "#cc281e",
-	  "Yellow" : "#fccf50",
-	  "Blue": "#1b8bd4"
+	"Product": {
+	  "Red" : "#f26767 ",
+	  "Yellow" : "#ffd02b ",
+	  "Blue": "#29cbcf"
 	}
 }
 

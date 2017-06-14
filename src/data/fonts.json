@@ -1,4 +1,9 @@
 {
-  "base" : "Roboto"
+
+  "Sans" : "Roboto, Helvetica Neue, Helvetica, Arial, sans-serif",
+
+  "Serif" : "Georgia, Times New Roman, Times, serif",
+
+  "Mono" : "Monaco, Menlo, Consolas, Courier New, monospace"
 }
 
